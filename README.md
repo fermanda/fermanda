@@ -10,4 +10,4 @@
 📚 I’m currently learning Artificial Intelligence, Machine Learning, and other topics that intrigue me.
 <br>
 
-Some of my activities are recorded in (https://qiita.com/brocolly)[https://qiita.com/brocolly]
+Some of my activities are recorded in [https://qiita.com/brocolly](https://qiita.com/brocolly)
